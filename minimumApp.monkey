@@ -1,5 +1,5 @@
 '/This is the minimum code required to
-'/make an app with monkey
+'/make an html5 app with monkey
 Strict 
 
 '/monkey applications must extend the mojo App Class declared in mojo.app
